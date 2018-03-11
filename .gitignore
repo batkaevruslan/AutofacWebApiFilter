@@ -3,3 +3,9 @@
 ################################################################################
 
 /packages
+/RB.WebApiAutofacFilter/bin
+/RB.WebApiAutofacFilter/logs
+/RB.WebApiAutofacFilter/obj/Debug
+/.vs
+*.user
+/RB.WebApiAutofacFilter/obj/Release
